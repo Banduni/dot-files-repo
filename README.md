@@ -1,1 +1,1 @@
-In this repository, I will be uploading all of my dot files.
+Repository for uploading dot files.
